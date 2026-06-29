@@ -1,4 +1,4 @@
-# 
+# Open Source pump.fun sniper bot workflow for Mac OS | Elite pump.fun sniper bot workflow for PC Windows. Featuring real-time trading and mev extraction — optimized for maximum performance on every platform.
 
 
 
